@@ -10,6 +10,14 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    npm install
    ```
 
+   npx expo install @reown/appkit-wagmi-react-native wagmi viem @tanstack/react-query
+   
+   npx expo install @react-native-async-storage/async-storage react-native-get-random-values react-native-svg react-native-modal@14.0.0-rc.1 @react-native-community/netinfo @walletconnect/react-native-compat expo-application
+
+   run the above commands too
+
+   Only two files is imp - _layout.tsx and index.tsx 
+
 2. Start the app
 
    ```bash
